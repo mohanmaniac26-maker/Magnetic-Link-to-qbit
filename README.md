@@ -21,10 +21,7 @@ A Telegram bot token from @BotFather.
 qBittorrent installed with Web UI enabled and reachable from where the bot runs.
 
 Installation:
-Clone this repository
-
-bash
-git clone https://github.com/mohanmaniac26-maker/Magnetic-Link-to-qbit
+https://github.com/mohanmaniac26-maker/Magnetic-Link-to-qbit
 
 Create and activate virtual environment (optional but recommended)
 
