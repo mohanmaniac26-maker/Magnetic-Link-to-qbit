@@ -21,11 +21,11 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Configuration - CHANGE THESE
-BOT_TOKEN = "8457214302:AAG1nzdSnkD2iIiv179m6fGy7qTGqDZxe5Y"
-QB_HOST = '192.168.0.174'
+BOT_TOKEN = "Bot token"
+QB_HOST = '192.168.0.....'
 QB_PORT = 8080
 QB_USERNAME = 'admin'
-QB_PASSWORD = '123456'
+QB_PASSWORD = 'password'
 
 # Initialize qBittorrent client
 QB = Client(
