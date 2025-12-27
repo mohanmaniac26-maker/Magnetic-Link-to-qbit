@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/24339514/README.md)
+
 Telegram qBittorrent Magnet Bot
 Telegram bot that accepts magnet links and sends them to a qBittorrent Web UI for downloading.
 The bot lets you add torrents from Telegram, start/pause them with inline buttons, list active torrents, and pause everything with one command.
@@ -14,8 +14,11 @@ Inline Start / Pause / Info buttons for each added torrent.
 
 /stopall to pause all torrents in qBittorrent.
 
-Prerequisites
+Prerequisites:
 Python 3.8+ installed on your machine (Windows is supported).
+
+pip install python-telegram-bot==20.0b0 qbittorrent-api
+
 
 A Telegram bot token from @BotFather.
 
